@@ -12,5 +12,6 @@ curl -X POST -H "Content-Type: application/json" -d '{"jsonrpc":"2.0","method":"
 ```
 
 ---
-* 快照下载地址：https://github.com/bnb-chain/bsc-snapshots or https://github.com/48Club/bsc-snapshots
-* bsc peer节点: https://api.binance.org/v1/discovery/peers
+* [快照下载](https://github.com/bnb-chain/bsc-snapshots)
+* [快照下载](https://github.com/48Club/bsc-snapshots)
+* [bsc peer节点](https://api.binance.org/v1/discovery/peers)
