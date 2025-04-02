@@ -18,8 +18,6 @@ services:
     stop_grace_period: 5m
     volumes:
       - /data/celo/config:/config
-    ports:
-      - 9545:9545
     depends_on:
       op-geth:
         condition: service_started
